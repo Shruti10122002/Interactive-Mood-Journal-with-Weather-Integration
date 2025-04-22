@@ -1,5 +1,7 @@
 
 🌦️ Mood Journal: Personal Mood Tracker with Real-Time Weather Integration 🌈
+
+
 Objective: Develop a personal mood journal web application that integrates real-time weather data. This project aims to assess your ability to build responsive, user-focused interfaces while utilizing public APIs and geolocation features.
 
 ✨ Features
